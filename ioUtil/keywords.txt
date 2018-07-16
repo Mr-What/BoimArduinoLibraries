@@ -1,12 +1,12 @@
 # classes and datatypes, KEYWORD1
 # methods and functions, KEYWORD2
 # constants (defines) LITERAL1
-SerialLineBuffer KEYWORD1
-isComplete       KEYWORD2
-clear            KEYWORD2
-length           KEYWORD2
-maxLength        KEYWORD2
-get              KEYWORD2
+SerialLineBuffer	KEYWORD1
+isComplete	KEYWORD2
+clear	KEYWORD2
+length	KEYWORD2
+maxLength	KEYWORD2
+get	KEYWORD2
 
 # this is a data member, exposed.  See if there is a KEYWORD3?
-buf KEYWORD3
+buf	KEYWORD3
